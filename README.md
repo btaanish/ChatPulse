@@ -2,7 +2,7 @@
 
 ## Overview
 
-ChatPulse is a cutting-edge real-time chat room application designed to provide seamless and instantaneous communication between users. The app features a modern, intuitive interface with real-time chat functionalities akin to popular messaging platforms. It is built using React for the frontend, Node.js and Express for the backend, and MongoDB for data management. Real-time interactions are powered by Pusher, ensuring smooth and immediate message delivery.
+ChatPulse is a real-time chat room application designed to provide seamless and instantaneous communication between users. The app features a modern, intuitive interface with real-time chat functionalities akin to popular messaging platforms. It is built using React for the frontend, Node.js and Express for the backend, and MongoDB for data management. Real-time interactions are powered by Pusher, ensuring smooth and immediate message delivery.
 
 ## Features
 
